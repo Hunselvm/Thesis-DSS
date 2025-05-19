@@ -1,4 +1,4 @@
-All code files used for the thesis of Max van Hunsel (s2041834) are listed in this repository. The R files are numbered, indicating their order. Files with the same number will be indifferent which is ran first. 
+This repository contains all computational resources for the thesis of Max van Hunsel (s2041834). The R files are sequentially numbered to indicate the recommended execution order. Files sharing the same number may be executed in any sequence relative to each other, as their operations are independent within number prefix.
 
 The R files include the data cleaning and calculating the pricing errors of the parametric models
 
